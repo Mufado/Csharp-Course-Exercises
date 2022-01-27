@@ -1,0 +1,7 @@
+C:\workspaces\ws-vs2019\First\First\bin\Debug\First.exe.config
+C:\workspaces\ws-vs2019\First\First\bin\Debug\First.exe
+C:\workspaces\ws-vs2019\First\First\bin\Debug\First.pdb
+C:\workspaces\ws-vs2019\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\First\First\obj\Debug\First.exe
+C:\workspaces\ws-vs2019\First\First\obj\Debug\First.pdb
+C:\workspaces\ws-vs2019\First\First\obj\Debug\First.csproj.AssemblyReference.cache
