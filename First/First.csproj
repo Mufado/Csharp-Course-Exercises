@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercises\ListExercise\ExerciseProgram.cs" />
+    <Compile Include="Exercises\EnumCompExercise\Client.cs" />
+    <Compile Include="Exercises\EnumCompExercise\EnumCompExerciseProgram.cs" />
+    <Compile Include="Exercises\EnumCompExercise\Enums\EOrderStatus.cs" />
+    <Compile Include="Exercises\EnumCompExercise\Order.cs" />
+    <Compile Include="Exercises\EnumCompExercise\OrderItem.cs" />
+    <Compile Include="Exercises\EnumCompExercise\Product.cs" />
+    <Compile Include="Exercises\ListExercise\ListExerciseProgram.cs" />
     <Compile Include="Exercises\ListExercise\Employee.cs" />
+    <Compile Include="Exercises\MatrixExercise\MatrixExerciseProgram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

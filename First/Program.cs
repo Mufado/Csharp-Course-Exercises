@@ -1,5 +1,4 @@
-﻿using System;
-using First.Exercises.ListExercise;
+﻿using First.Exercises.EnumCompExercise;
 
 namespace First
 {
@@ -7,7 +6,8 @@ namespace First
     {
         static void Main (string[] args)
         {
-            ExerciseProgram.ListExercise();
+            // var exercise = new EnumCompExerciseProgram();
+            // exercise.EnumCompExercise();
         }
     }
 }
