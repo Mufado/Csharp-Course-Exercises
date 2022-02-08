@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace First.Exercises.ListExercise
+﻿namespace First.Exercises.ListExercise
 {
     class Employee
     {
@@ -12,10 +10,10 @@ namespace First.Exercises.ListExercise
             Name = name;
             Salary = salary;
         }
-        private double Salary
+        public double Salary
         {
             get { return Salary; }
-            set
+            private set
             {
                 if (value >= 0)
                     Salary = value;

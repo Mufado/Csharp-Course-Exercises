@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace First.Exercises.ListExercise
 {
-    public class ExerciseProgram
+    public class ListExerciseProgram
     {
         public void ListExercise()
         {
