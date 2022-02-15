@@ -52,6 +52,10 @@
     <Compile Include="Exercises\ListExercise\ListExerciseProgram.cs" />
     <Compile Include="Exercises\ListExercise\Employee.cs" />
     <Compile Include="Exercises\MatrixExercise\MatrixExerciseProgram.cs" />
+    <Compile Include="Exercises\PolimorfismExercise\ImportedProduct.cs" />
+    <Compile Include="Exercises\PolimorfismExercise\PolimorfismExerciseProgram.cs" />
+    <Compile Include="Exercises\PolimorfismExercise\Product.cs" />
+    <Compile Include="Exercises\PolimorfismExercise\UsedProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

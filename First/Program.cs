@@ -1,4 +1,4 @@
-﻿using First.Exercises.EnumCompExercise;
+﻿using First.Exercises.PolimorfismExercise;
 
 namespace First
 {
@@ -6,8 +6,8 @@ namespace First
     {
         static void Main (string[] args)
         {
-            // var exercise = new EnumCompExerciseProgram();
-            // exercise.EnumCompExercise();
+            var exercise = new PolimorfismExerciseProgram();
+            exercise.PolimorfismExercise();
         }
     }
 }
