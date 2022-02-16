@@ -53,6 +53,10 @@
     <Compile Include="Exercises\EnumCompExercise\Order.cs" />
     <Compile Include="Exercises\EnumCompExercise\OrderItem.cs" />
     <Compile Include="Exercises\EnumCompExercise\Product.cs" />
+    <Compile Include="Exercises\ExceptionsExercise\Account.cs" />
+    <Compile Include="Exercises\ExceptionsExercise\Exceptions\AccountException.cs" />
+    <Compile Include="Exercises\ExceptionsExercise\Exceptions\WithdrawException.cs" />
+    <Compile Include="Exercises\ExceptionsExercise\ExceptionsExerciseProgram.cs" />
     <Compile Include="Exercises\ListExercise\ListExerciseProgram.cs" />
     <Compile Include="Exercises\ListExercise\Employee.cs" />
     <Compile Include="Exercises\MatrixExercise\MatrixExerciseProgram.cs" />
