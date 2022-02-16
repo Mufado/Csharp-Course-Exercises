@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercises\AbstractExercise\AbstractExerciseProgram.cs" />
+    <Compile Include="Exercises\AbstractExercise\IndividualPerson.cs" />
+    <Compile Include="Exercises\AbstractExercise\LegalPerson.cs" />
+    <Compile Include="Exercises\AbstractExercise\Person.cs" />
     <Compile Include="Exercises\EnumCompExercise\Client.cs" />
     <Compile Include="Exercises\EnumCompExercise\EnumCompExerciseProgram.cs" />
     <Compile Include="Exercises\EnumCompExercise\Enums\EOrderStatus.cs" />

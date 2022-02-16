@@ -1,13 +1,11 @@
-﻿using First.Exercises.PolimorfismExercise;
-
-namespace First
+﻿namespace First
 {
     class Program
     {
         static void Main (string[] args)
         {
-            var exercise = new PolimorfismExerciseProgram();
-            exercise.PolimorfismExercise();
+            // var exercise = new _ExerciseProgram();
+            // exercise._Exercise();
         }
     }
 }
